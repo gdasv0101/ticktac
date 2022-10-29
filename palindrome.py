@@ -6,7 +6,7 @@ def isPalindrome(s):
 
 
 # Driver code
-n=input("Enter string :  ")
+n=input("Enter string :  ")#declaring
 ans = isPalindrome(n)
 
 if ans:
