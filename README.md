@@ -1,2 +1,2 @@
-# ticktac
-this is a tick tac toe game programmed in swift 
+# Python codes 
+this is a repo for sample python codes.
