@@ -6,8 +6,8 @@ def isPalindrome(s):
 
 
 # Driver code
-s = "malayalam"
-ans = isPalindrome(s)
+n=input("Enter string :  ")
+ans = isPalindrome(n)
 
 if ans:
 	print("Yes")
