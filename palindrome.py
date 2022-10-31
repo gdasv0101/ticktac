@@ -8,6 +8,7 @@ def isPalindrome(s):
 # Driver code
 n=input("Enter string :  ")#declaring
 ans = isPalindrome(n)
+print("computing result")
 
 if ans:
 	print("Yes") #if_condition_true
