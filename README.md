@@ -1,5 +1,7 @@
 # Python codes 
-this is a repo for sample python codes. also this repo will provide essential roadmap for new beginners.
-Hehehe 
+this is a repo for sample python codes. also this repo will provide essential roadmap
+ for new beginers
 
-Python turtle tutorials
+
+
+Python codes and tutorials
