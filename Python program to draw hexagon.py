@@ -15,3 +15,4 @@ for i in range(num_sides): #loop
 	polygon.right(angle)
 	
 turtle.done()
+#Eof program hehe
