@@ -1,6 +1,6 @@
 # Python program to draw hexagon
 # using Turtle graphics
-
+# basic turtle syntax
 
 import turtle
 polygon = turtle.Turtle()
