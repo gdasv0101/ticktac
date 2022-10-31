@@ -22,3 +22,4 @@ else:
         n_1 = n_2  
         n_2 = nth  
         count += 1  
+#EOF
