@@ -3,7 +3,7 @@ n_terms = int(input ("How many terms the user wants to print? "))
 # First two numbers 
 n_1 = 0  
 n_2 = 1  
-count = 0  
+count = 0#initialis count  
   
 
 if n_terms <= 0:  
