@@ -14,7 +14,7 @@ elif n_terms == 1:
     print(n_1)  
 # if there is only one term, it will return n_1  
 else:  
-    print ("The fibonacci sequence of the numbers is:")  
+    print ("The fibonacci sequence of the numbers is:")  # Now, we will check if the number of terms is valid or not  
     while count < n_terms:  
         print(n_1)  
         nth = n_1 + n_2  
