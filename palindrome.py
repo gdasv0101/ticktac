@@ -11,7 +11,7 @@ ans = isPalindrome(n)
 print("computing result")
 
 if ans:
-	print("Yes") #if_condition_true
+	print("Yes,the given string is paliendrome") #if_condition_true
 else:
-	print("No")#false 
+	print("No,the given string is not paliendrome )#false 
 #EOF
