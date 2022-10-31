@@ -1,5 +1,5 @@
 n_terms = int(input ("How many terms the user wants to print? "))  
-  
+  # fibnocci series of numbers
 # First two numbers 
 n_1 = 0  
 n_2 = 1  
