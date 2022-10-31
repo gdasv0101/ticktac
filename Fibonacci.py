@@ -23,3 +23,4 @@ else:
         n_2 = nth  
         count += 1  
 #EOF
+print("the program interpreted successfully")
