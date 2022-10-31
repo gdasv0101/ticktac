@@ -1,5 +1,5 @@
 #this is a python program to check whether the given string is a palindrome or not.
-
+#palindrome using loop statement 
 
 def isPalindrome(s):
 	return s == s[::-1]
