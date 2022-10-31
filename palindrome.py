@@ -12,4 +12,4 @@ ans = isPalindrome(n)
 if ans:
 	print("Yes") #if_condition_true
 else:
-	print("No") 
+	print("No")#false 
