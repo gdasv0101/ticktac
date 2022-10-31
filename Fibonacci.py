@@ -5,7 +5,7 @@ n_1 = 0
 n_2 = 1  
 count = 0  
   
-
+# Then we will generate Fibonacci sequence of number
 if n_terms <= 0:  
     print ("Please enter a positive integer, the given number is not valid")  
 
