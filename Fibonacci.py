@@ -11,7 +11,8 @@ if n_terms <= 0:
 
 elif n_terms == 1:  
     print ("The Fibonacci sequence of the numbers up to", n_terms, ": ")  
-    print(n_1)  
+    print(n_1)
+    Print("computing")  
 # if there is only one term, it will return n_1  
 else:  
     print ("The fibonacci sequence of the numbers is:")  
