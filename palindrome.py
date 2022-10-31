@@ -10,6 +10,6 @@ n=input("Enter string :  ")#declaring
 ans = isPalindrome(n)
 
 if ans:
-	print("Yes")
+	print("Yes") #if_condition_true
 else:
-	print("No")
+	print("No") 
