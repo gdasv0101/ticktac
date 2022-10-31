@@ -1,4 +1,6 @@
-n_terms = int(input ("How many terms the user wants to print? "))  
+#program for print the fibonacci series
+#fibonacci using python
+n_terms = int(input ("print the number of terms you  wants to be print? "))  
   
 # First two numbers 
 n_1 = 0  
@@ -7,10 +9,10 @@ count = 0#initialis count
   
 # Then we will generate Fibonacci sequence of number
 if n_terms <= 0:  
-    print ("Please enter a positive integer, the given number is not valid")  
+    print ("Please enter a positive integer, the given number is not valid !")  
 
 elif n_terms == 1:  
-    print ("The Fibonacci sequence of the numbers up to", n_terms, ": ")  
+    print ("The Fibonacci sequence of the numbers up to",  n_terms, ": ")  
     print(n_1)  
 # if there is only one term, it will return n_1  
 else:  
